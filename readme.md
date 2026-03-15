@@ -7,6 +7,14 @@ The website includes multiple sections such as services, portfolio, client revie
 
 ---
 
+## 🌐 Live Demo
+
+View the live website here:
+
+👉 https://rayasocial.vercel.app/
+
+---
+
 ## 🚀 Project Overview
 
 Raaya Social presents a marketing landing page for a creative agency offering:
@@ -29,7 +37,7 @@ This project is built with:
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling, layout, and responsiveness  
 - **Vanilla JavaScript** – Interactivity (menu toggle, FAQ accordion)  
-- **Google Fonts** – Typography
+- **Google Fonts** – Typography  
 
 Fonts used:
 
@@ -41,47 +49,62 @@ Fonts used:
 ## ✨ Features
 
 ### 📱 Responsive Layout
+
 The entire website is responsive using **media queries** for:
+
 - Desktop
 - Tablet
 - Mobile
 
 ### 🧭 Navigation Menu
+
 - Desktop navigation bar
 - Mobile hamburger menu toggle
 
 ### 🎯 Hero Section
+
 Highlights the platform's value proposition with:
+
 - Call-to-action buttons
 - Promotional text
 - Social media platform icons
 
 ### 💡 Services Section
+
 Displays:
+
 - Creative service descriptions
 - Pricing plans
 - Feature highlights
 
 ### 🎬 Engaging Content Section
+
 Explains the workflow of converting raw videos into engaging clips.
 
 ### 📹 Video Categories
+
 Shows example industries such as:
+
 - Health & Wealth
 - Financial Services
 - Real Estate
 - Home Services
 
 ### ⭐ Client Stories
+
 Includes:
+
 - Client video previews
 - Testimonial review cards
 
 ### ❓ FAQ Section
+
 Accordion-style FAQ where users can expand answers.
 
 ### 📩 Footer
+
 Contains:
+
 - About section
 - Quick links
 - Services list
@@ -92,23 +115,30 @@ Contains:
 ## 🧠 Key Concepts Used
 
 ### Flexbox
+
 Used for:
+
 - Navigation layout
 - Hero section
 - Contributor section
 - Footer layout
 
 ### CSS Grid
+
 Used for:
+
 - Engaging content cards
 - Client review layout
 
 ### Media Queries
+
 Responsive breakpoints used:
-- 1024px → Tablet
-- 768px → Mobile
+
+- **1024px → Tablet**
+- **768px → Mobile**
 
 ### Reusable UI Components
+
 - Buttons
 - Cards
 - Testimonial sections
@@ -133,5 +163,3 @@ Possible improvements for the project:
 Developed by **Pritom Das**
 
 Frontend Developer passionate about building modern and responsive web interfaces.
-
----
